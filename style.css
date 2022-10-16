@@ -1,0 +1,40 @@
+*{
+	padding: 0;
+	margin: 0;
+	outline:0;
+}
+.container{
+	height: 100vh;
+	width: 100vw;
+	text-align:center;
+	color:#333;
+	background: rgb(151, 148, 148);
+
+}
+.yes{
+	height: 100vh;
+	width: 100vw;
+	text-align:center;
+	color:rgb(255, 255, 255);
+	background: rgb(0, 0, 0);
+}
+.yes{}
+.siap span{color: rgb(255, 252, 253)}
+.love,.yes,.no{padding-top: 15%;
+		
+		}
+.love span{color:rgb(255, 0, 0);}
+h2{font-size: 72px;margin-bottom: 50px;}
+a{font-size: 24px;text-decoration: none;padding: 5px 10px;
+	margin-top: 20px;border:3px solid #ddd; border-radius: 10px;}
+#no{color:red; background: #eee;margin-right: 50px;}
+#yes{color:green;background: rgb(255, 255, 255);}
+#yes{margin-left: -120px; padding-top: 10px;}
+.yes img{
+	height: 200px;
+	width: 200px;
+	margin-top: 30px;
+	margin-bottom: 80px;
+	margin-left: 50px;
+
+}
